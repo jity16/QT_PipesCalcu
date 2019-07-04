@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/main.jpg</file>
+        <file>Images/label.jpg</file>
+        <file>Bgm/click.wav</file>
+        <file>Bgm/operate.wav</file>
+        <file>Bgm/info.wav</file>
+        <file>Images/res.jpg</file>
+    </qresource>
+</RCC>
